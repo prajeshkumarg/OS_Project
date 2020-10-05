@@ -6,6 +6,7 @@
 #include "file.h"
 #include<fstream>
 using namespace std;
+//defining the file system operation functions
 class filesys
 {
 public:
