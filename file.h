@@ -1,5 +1,6 @@
 #ifndef fi
 #define fi
+//used for defining the parameters of the file 
 class file{
 public:
 char name[64];
